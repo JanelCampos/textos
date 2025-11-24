@@ -1,4 +1,4 @@
-Dinero caja: 350
+Dinero caja: 200
 
 - se ha puesto 150
 - se puso 100
@@ -7,6 +7,7 @@ Dinero caja: 350
 - se puso 100 - (11-11-25)
 - se puso 50 - gas
 - se puso 100 - tarjeta (17-11-25)
-Se puso a gastos de casa: 582.5
+- se puso 100 - 23/11/25
+Se puso a gastos de casa: 682.5
 
 se debe 450 de la lavadora

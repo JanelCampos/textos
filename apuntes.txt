@@ -1,9 +1,10 @@
-Dinero caja: 100
+Dinero caja: 900
 Dinero helados: 11
 
 - se puso 100 (01-12-25)
 - se puso 100 (04-12-25)
- - se puso 100 (06-12-25)
-Se puso a gastos de casa: 300
+- se puso 100 (06-12-25)
+- se pone 100 (09-12-25)
+Se puso a gastos de casa: 400
 
 se debe 450 de la lavadora

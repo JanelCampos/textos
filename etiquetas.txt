@@ -1,3 +1,3 @@
-auto, coche coleccionable, auto coleccionable, coche pequeño, coche de juguete, auto de juguete, auto clásico,
-coche clásico, auto a escala, coche a escala, coche juguete a escala, auto para vitrina, auto a escala para colección,
+parlante, parlante bt, parlante bluetotoh, parlante astronauta, parlante bluetooth astronauta, parlante, parlante inalambrico,
+parlante inalambrico bluetooth, parlante en forma de astronauta, parlante bluetooth, bluetooth, astronauta, 
 pachacutec, pachacutec technology,

@@ -8,7 +8,12 @@ Dinero helados: 00
 - se pone 100 (11-02-26)
 - se pone 20 (16-02-26)
 - se pone 100 (17-02-26)
-Se puso a gastos de casa: 544
+- se pone 100 (22-02-26)
+- se pone 50 (26-02-26)
+- se puso 6
+Se puso a gastos de casa: 700
+
+en tarjeta de Bianca: 183.5
 
 
 se debe 450 de la lavadora

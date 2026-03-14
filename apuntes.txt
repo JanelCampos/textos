@@ -1,11 +1,13 @@
-Dinero caja: 00
+Dinero caja: 350
 Dinero helados: 00
 
 - se puso 100 (01-03-26)
 - se pone 90 (05-03-26)
-Se puso a gastos de casa: 190
+- se pone 100 (9-3-26)
+- se pone 100 (13-03-26)
+Se puso a gastos de casa: 390
 
-en tarjeta de Bianca: 133.5
+en tarjeta de Bianca: 119.48
 
 
 se debe 450 de la lavadora

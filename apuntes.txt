@@ -1,4 +1,4 @@
-Dinero caja: 350
+Dinero caja: 400
 Dinero helados: 00
 
 - se puso 100 (01-03-26)

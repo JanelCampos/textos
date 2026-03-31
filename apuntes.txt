@@ -1,13 +1,17 @@
-Dinero caja: 00
+Dinero caja: 50
 
 - se puso 100 (01-03-26)
 - se pone 90 (05-03-26)
 - se pone 100 (9-3-26)
 - se pone 100 (13-03-26)
 - se pone 100 (17-03-26)
-Se puso a gastos de casa: 490
+- se pone 13 (21-03-2026)
+- se pone 40 (22-03-26)
+- se pone 100 (23-03-26)
+- se pone 57 
+Se puso a gastos de casa: 700
 
-en tarjeta de Bianca: 196.08
+en tarjeta de Bianca: 96.08
 
 
 se debe 450 de la lavadora

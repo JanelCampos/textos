@@ -1,12 +1,14 @@
-Dinero caja: 50
+Dinero caja: 100
 
 - Se pone 10 (1-04-26)
 - se pone 100 (1-04-26)
 - se pone 100 (4-04-26)
 - se pone 55 (5-04-26)
-Se puso a gastos de casa: 265
+- se pone 50 (6-4-26)
+- se pone 50 (9-4-26)
+Se puso a gastos de casa: 355
 
-en tarjeta de Bianca: 96.08
+en tarjeta de Bianca: 00.08
 
 
 se debe 450 de la lavadora

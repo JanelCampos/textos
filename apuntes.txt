@@ -1,4 +1,4 @@
-Dinero caja: 750
+Dinero caja: 450
 
 - Se pone 10 (1-04-26)
 - se pone 100 (1-04-26)
@@ -11,7 +11,8 @@ Dinero caja: 750
 - se pone 100 (15-04-26)
 - se pone 50 (21-04-26)
 - se pone 50 (24-04-26)
-Se puso a gastos de casa: 615
+- se pone 40 (26-04-26)
+Se puso a gastos de casa: 705
 
 en tarjeta de Bianca: 100.00
 

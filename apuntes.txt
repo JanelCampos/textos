@@ -1,12 +1,15 @@
-Dinero caja: 250
+Dinero caja: 00
 
 - se pone 100
 - se poner 50
 - se puso 52 fideos
 - se puso 100 
-Se puso a gastos de casa: 302
+- se poner 50
+- se pone 100
+- se pone 50
+Se puso a gastos de casa: 502
 
-en tarjeta de Bianca: 80.57
+en tarjeta de Bianca: 81.57
 
 
 se debe 450 de la lavadora

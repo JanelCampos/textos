@@ -1,4 +1,4 @@
-Dinero caja: 500
+Dinero caja: 600
 
 - se puso 200
 - se pone 100 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Dinero caja: 400
+=======
+Dinero caja: 600
+>>>>>>> 85ff6d57c5bf2a1f44e240c17ce207a64f15fc15
 
 - se puso 200
 - se pone 100 

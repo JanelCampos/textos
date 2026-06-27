@@ -7,8 +7,10 @@ Dinero caja: 250
 - se pone 50
 - se pone 50
 - se pone 60
-Se puso a gastos de casa: 560
+- se pone 57
+- se pone 43
+Se puso a gastos de casa: 660
 
-en tarjeta de Bianca: 275.21
+en tarjeta de Bianca: 408.21
 
 se debe 450 de la lavadora

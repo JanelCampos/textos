@@ -1,4 +1,4 @@
-Dinero caja: 250
+Dinero caja: 210
 
 - se puso 200
 - se pone 100 
@@ -9,7 +9,8 @@ Dinero caja: 250
 - se pone 60
 - se pone 57
 - se pone 43
-Se puso a gastos de casa: 660
+- se pone 40
+Se puso a gastos de casa: 700
 
 en tarjeta de Bianca: 408.21
 

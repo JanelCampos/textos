@@ -1,9 +1,11 @@
-Dinero caja: 300
+Dinero caja: 200
 Dinero golosinas: 81.8
 
 - se pone 100
 - se pone 50
-Se puso a gastos de casa: 150
+- se pone 50
+- se pone 50
+Se puso a gastos de casa: 250
 
 en tarjeta de Bianca: 17.42
 

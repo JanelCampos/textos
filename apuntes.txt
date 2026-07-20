@@ -1,4 +1,4 @@
-Dinero caja: 150
+Dinero caja: 00
 Dinero golosinas: 81.8
 
 - se pone 100

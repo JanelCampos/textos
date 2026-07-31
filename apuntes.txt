@@ -1,4 +1,4 @@
-Dinero caja: 200
+Dinero caja: 550
 Dinero golosinas: 81.8
 
 - se pone 100
@@ -10,8 +10,9 @@ Dinero golosinas: 81.8
 - se pone 50
 - se pone 50
 - se pone 100
-Se puso a gastos de casa: 600
+- se pone 50
+Se puso a gastos de casa: 650
 
-en tarjeta de Bianca: 25.41
+en tarjeta de Bianca: 133.6
 
 se debe 450 de la lavadora
